@@ -17,4 +17,4 @@ Este proyecto permite realizar la conversión entre diferentes unidades (por eje
 - Java
 
 ## :construction_worker: Autores
-[<img src="https://github.com/abriceno221/Conversor/assets/132310492/49dac16e-fb44-4779-bff7-05ac8593aee4" width=115><br><sub>Anderon Briceño Baez</sub>](https://github.com/abriceno221)
+[<img src="https://github.com/abriceno221/Conversor/assets/132310492/49dac16e-fb44-4779-bff7-05ac8593aee4" width=115><br><sub>Anderson Briceño Baez</sub>](https://github.com/abriceno221)
